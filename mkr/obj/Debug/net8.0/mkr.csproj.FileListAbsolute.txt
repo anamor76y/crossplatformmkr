@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\mkr.exe
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\mkr.deps.json
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\mkr.runtimeconfig.json
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\mkr.dll
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\mkr.pdb
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.AssemblyInfo.cs
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.dll
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\refint\mkr.dll
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.pdb
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\mkr.genruntimeconfig.cache
+C:\Users\Acer\source\repos\mkr\mkr\obj\Debug\net8.0\ref\mkr.dll
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\input.txt
+C:\Users\Acer\source\repos\mkr\mkr\bin\Debug\net8.0\output1.txt
